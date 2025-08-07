@@ -12,7 +12,7 @@ I'm a good communicator and team player, passionate about building creative and 
 ### 📫 Contact
 
 - 📧 Email: nicolasprofissional88@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/nicolasbaradel/)
+- 💼 LinkedIn: [linkedin.com/in/nicolasbaradel](https://linkedin.com/in/nicolasbaradel/)
 
 ---
 
