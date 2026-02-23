@@ -19,7 +19,6 @@ I am an AWS Certified Cloud Practitioner and I'm currently focusing my studies o
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nnibo&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnibo&theme=github-dark&hide_border=true" height="150"/>
 </p>
 
 ---
