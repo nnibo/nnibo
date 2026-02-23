@@ -1,18 +1,17 @@
-<h1 align="center">Hi there 👋 My name is Nicolas Baradel</h1>
+<div align="center">
+  <h1>Nicolas Baradel</h1>
+  <p><b>Fullstack Developer @ SBT | Software Engineering Student @ FIAP</b></p>
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a Software Engineering student at FIAP, always looking to improve my skills and searching for my first professional opportunity.  
-I'm a good communicator and team player, passionate about building creative and efficient solutions.
+I am a Software Engineering student at FIAP (3rd semester) and a Junior Fullstack Developer at SBT (one of Brazil's largest TV networks).
 
----
+At SBT, I work on high-impact projects like SBT Sports, where I modernized the portal using Next.js, TypeScript, and UI-Kit components. I was also responsible for the end-to-end development of the new SBT do Bem, building the backend with Node.js/Strapi and structuring the frontend.
 
-### 📫 Contact
-
-- 📧 Email: nicolasprofissional88@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/nicolasbaradel](https://linkedin.com/in/nicolasbaradel/)
+I am an AWS Certified Cloud Practitioner and I'm currently focusing my studies on Cloud Infrastructure and AI.
 
 ---
 
@@ -25,35 +24,37 @@ I'm a good communicator and team player, passionate about building creative and 
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
-#### ⚙️ Back-End
+#### ⚙️ Backend & Infrastructure
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
 </p>
 
-#### 🎨 Front-End
+#### 🎨 Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
 </p>
 
-#### 🗄️ Database
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server"/>
-</p>
+---
 
-#### 🧰 Tools & Utilities
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/>
-</p>
+### 🎯 Next Goal
+* [ ] AWS Certified AI Practitioner 🚀
+
+---
+
+### 📫 Contact
+
+- 💼 LinkedIn: [linkedin.com/in/nicolasbaradel](https://linkedin.com/in/nicolasbaradel/)
+- 📧 Email: nicolasprofissional88@gmail.com
+- 📱 Phone: +55 11 93017-8562
