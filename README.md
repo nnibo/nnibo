@@ -49,7 +49,7 @@ I am an AWS Certified Cloud Practitioner and I'm currently focusing my studies o
 ---
 
 ### 🎯 Next Goal
-* [ ] AWS Certified AI Practitioner 🚀
+* [ ] AWS Certified AI Practitioner
 
 ---
 
