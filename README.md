@@ -9,7 +9,7 @@
 
 I am a Software Engineering student at FIAP (3rd semester) and a Junior Fullstack Developer at SBT (one of Brazil's largest TV networks).
 
-At SBT, I work on high-impact projects like SBT Sports, where I modernized the portal using Next.js, TypeScript, and UI-Kit components. I was also part of the end-to-end development of the new **SBT do Bem**, working on the backend with Node.js/Strapi and structuring the frontend.
+At SBT, I work on high-impact projects like SBT Sports, where I modernized the portal using Next.js, TypeScript, and UI-Kit components. I was also part of the end-to-end development of the new SBT do Bem, working on the backend with Node.js/Strapi and structuring the frontend.
 
 I am an AWS Certified Cloud Practitioner and I'm currently focusing my studies on Cloud Infrastructure and AI.
 
