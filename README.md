@@ -14,6 +14,7 @@ with professional experience as a developer in a high-demand environment at SBT,
 automated testing to scalable APIs. 
 
 Seeking to expand my knowledge in Cloud Computing and Software Architecture
+
 ---
 
 ### 🚀 GitHub Stats
